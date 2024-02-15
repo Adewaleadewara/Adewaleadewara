@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adewaleadewara
 - 👀 I’m interested in ... data science informations
-- 🌱 I’m currently learning ... python and cybersecurity
-- 💞️ I’m looking to collaborate on ... python and cybersecurity projects
+- 🌱 I’m currently learning ... data science
+- 💞️ I’m looking to collaborate on ... data science, python for data science, sql
 - 📫 How to reach me ...via my mail at adewaleadewara20@gmail.com
 
 <!---
